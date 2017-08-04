@@ -3230,3 +3230,9 @@ function sayHello() {
 }
 
 console.log(sayHello());
+
+function sayBye() {
+  return "bye!!"
+}
+
+console.log(sayBye());
