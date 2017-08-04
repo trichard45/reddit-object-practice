@@ -3231,8 +3231,8 @@ function sayHello() {
 
 console.log(sayHello());
 
-function timeForBed() {
-  return "im sleepy"
+function sayBye() {
+  return "bye!!"
 }
 
-console.log(timeForBed);
+console.log(sayBye());
