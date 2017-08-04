@@ -3230,3 +3230,9 @@ function sayHello() {
 }
 
 console.log(sayHello());
+
+function timeForBed() {
+  return "im sleepy"
+}
+
+console.log(timeForBed);
